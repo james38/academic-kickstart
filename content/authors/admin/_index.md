@@ -15,7 +15,7 @@ role: Data Analyst - Computer Science Student
 # Organizations/Affiliations
 organizations:
 - name: Georgia Institute of Technology
-  url: "gatech.edu"
+  url: "https://www.gatech.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Current Data Analyst at Change Healthcare while studying MS in Computer Science specializing in Machine Learning. Curious forecaster and adaptive problem-solver who communicates effectively within teams. I’m passionate about making strategic choices based on balancing risk and reward.
